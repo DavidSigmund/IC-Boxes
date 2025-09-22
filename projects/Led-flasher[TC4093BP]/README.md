@@ -18,3 +18,5 @@ The blink speed depends on the values of the resistor and capacitor (the RC time
   - breadboard & wires 
 
 
+## Datasheet
+[TC493BP](https://toshiba.semicon-storage.com/info/TC4093BP_datasheet_en_20140301.pdf?did=19435&prodName=TC4093BP)
