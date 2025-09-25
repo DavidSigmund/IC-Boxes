@@ -11,11 +11,13 @@ The blink speed depends on the values of the resistor and capacitor (the RC time
   - 1x TC4093BP
   - 1x LED
   - 1x 1k resistor
-  - 1x 100nf decoupling capacitor
-  - 1x potentiometer
-  - 1x capacitor 100nf
+  - 1x potentiometer/ static resistor
+  - 1x capacitor 6,8µF
   - powersupply
   - breadboard & wires 
+
+## Circuit
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/6f062eeb-0a19-411f-9e89-39cdbe025968" />
 
 
 ## Datasheet
