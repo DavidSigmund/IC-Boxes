@@ -17,7 +17,7 @@ The blink speed depends on the values of the resistor and capacitor (the RC time
   - breadboard & wires 
 
 ## Circuit
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/6f062eeb-0a19-411f-9e89-39cdbe025968" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/6f062eeb-0a19-411f-9e89-39cdbe025968" /><br>
 The value of the first resistor and the value of the capacitor can change to change the timing on the led flashing
 
 ## Datasheet
