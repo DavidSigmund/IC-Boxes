@@ -20,5 +20,9 @@ The blink speed depends on the values of the resistor and capacitor (the RC time
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/6f062eeb-0a19-411f-9e89-39cdbe025968" /><br>
 The value of the first resistor and the value of the capacitor can change to change the timing on the led flashing
 
+## implementation
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/4b8b5db0-b924-4c60-ad3a-204aaaf57c8c" /><br>
+
+
 ## Datasheet
 [TC493BP](https://toshiba.semicon-storage.com/info/TC4093BP_datasheet_en_20140301.pdf?did=19435&prodName=TC4093BP)
